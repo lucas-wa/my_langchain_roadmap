@@ -1,6 +1,6 @@
 # Llama in Colab
 
-llama.ipynb provides a example of how to run llama in Google Colab using the LangChain and MEta Documentations
+llama.ipynb provides an example of how to run llama in Google Colab using the LangChain and Meta Documentations
 
 ## References 
 
